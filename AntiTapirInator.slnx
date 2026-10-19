@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AntiTapirInator.App/AntiTapirInator.App.csproj" />
+  <Project Path="AntiTapirInator.DnsDiagnostics.Tests/AntiTapirInator.DnsDiagnostics.Tests.csproj" />
+  <Project Path="AntiTapirInator.DnsDiagnostics/AntiTapirInator.DnsDiagnostics.csproj" />
+</Solution>
